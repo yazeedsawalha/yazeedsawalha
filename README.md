@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-- 🌱 Loving the coding 
+- 🌱 I'm currently In love with coding
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
