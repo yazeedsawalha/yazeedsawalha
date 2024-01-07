@@ -4,7 +4,7 @@
 <img align='right' src = "https://avatars.githubusercontent.com/u/27763480?s=400&u=359cc49d5b72c7f6fd3a338ef1166a3b854c3a3d&v=4" width = "230">
 
 <br>
-I'm a Java developer from Jordan who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with are Java, Spring, Flutter. Feel free to reach out if you want to connect.
+I'm a Java developer who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with are Java, Spring, Flutter. Feel free to reach out if you want to connect.
 
 <!--
 Here are some ideas to get you started:
