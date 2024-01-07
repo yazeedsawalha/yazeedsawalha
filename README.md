@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Structures and Algorithms
-
-- 🌱 I'm currently In love with coding
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prgyazeedali/" target="_blank">
